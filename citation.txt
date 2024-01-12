@@ -1,0 +1,6 @@
+@inproceedings{REPO318,
+    author = "Guo, Wenjin and Xie, Weiying and Jiang, Kai and Li, Yunsong and Lei, Jie and Fang, Leyuan",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    title = "{Toward Stable, Interpretable, and Lightweight Hyperspectral Super-Resolution}",
+    year = "2023"
+}
